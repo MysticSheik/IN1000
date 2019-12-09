@@ -1,2 +1,1 @@
-# IN1000
-Course work in IN1000 at the University of Oslo 
+# IN1000 - Introduction to Object Oriented Programming
